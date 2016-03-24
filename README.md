@@ -10,6 +10,7 @@ Following topics are covered.
 Following topics will be covered.
 - Testing databases and content providers
 - Testing local and remote services
+- Testing Adapter
 - Testing user interfaces
 - Testing exceptions
 - Testing with Espresso
