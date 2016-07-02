@@ -7,6 +7,7 @@ This are examples that cover the situations which generally encountered during w
 
 Following topics are covered.
 - Testing activities and applications
+- Mock SharedPreference 
 
 Following topics will be covered.
 - Testing databases and content providers
