@@ -16,5 +16,9 @@ Following topics will be covered.
 - Testing user interfaces
 - Testing exceptions
 - Testing with Espresso
+**MVP**
+- Testing Presenter
+- Testing Repository
+- Testing with Retrofit
 
 Reference: Learning Andorid Application Testing by Paul Blundell and Diego Torres Milano
