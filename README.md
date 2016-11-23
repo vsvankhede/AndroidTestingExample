@@ -16,6 +16,7 @@ Following topics will be covered.
 - Testing user interfaces
 - Testing exceptions
 - Testing with Espresso
+- Running Test on Google Cloud TestLab
 
 **MVP**
 - Testing Presenter
