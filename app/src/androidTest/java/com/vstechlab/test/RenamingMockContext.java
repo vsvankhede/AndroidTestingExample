@@ -1,4 +1,4 @@
-package com.vstechlab.mockapplicationandpreference;
+package com.vstechlab.test;
 
 import android.content.Context;
 import android.content.SharedPreferences;

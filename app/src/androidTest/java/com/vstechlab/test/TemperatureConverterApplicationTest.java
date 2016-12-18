@@ -1,4 +1,4 @@
-package com.vstechlab.mockapplicationandpreference;
+package com.vstechlab.test;
 
 import android.test.ApplicationTestCase;
 
