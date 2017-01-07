@@ -17,6 +17,7 @@ Following topics will be covered.
 - Testing exceptions
 - Testing with Espresso
 - Running Test on Google Cloud TestLab
+- Testing using Dagger 2
 
 **MVP**
 - Testing Presenter
