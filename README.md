@@ -1,5 +1,4 @@
 ![alt tag](https://github.com/vsvankhede/AndroidTestingExample/blob/master/image/git_banner.png)
-[![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/vsvankhede?utm_source=github&utm_medium=button&utm_term=vsvankhede&utm_campaign=github)
 
 # AndroidTestingExample
 Examples to showcase the tools & techniques used for writing Unit, Integration and Functional tests.
